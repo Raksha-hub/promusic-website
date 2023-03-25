@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#body1{
+    background-color: rgb(80, 59, 59);
+    width: 1550px;
+    height: 150px;
+    margin: 0;
+}
+#body2{
+    background-color: rgb(187, 172, 172);
+    width: 1550px;
+    height: 880px;
+    margin: 0;
+}
+
+#logoimg{
+    margin: 25px;
+    margin-top: 25px;
+}
+#searchimg{
+margin-bottom: 40px;
+}
+.top{
+    position:relative;
+    nav-left: 150px;
+    
+    
+
+}
